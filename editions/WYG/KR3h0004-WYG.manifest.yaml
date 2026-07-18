@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3h0004_000-WYG.yaml, hash: 'sha256:f7a7fd994691972285ccffb8dab99d40f1ed93ac0894869edcb256aef6d57767'}
   - {seq: 1, filename: KR3h0004_001-WYG.yaml, hash: 'sha256:51ee3d785ec4e270cd8f070a6c1dfca2db7cd64a2a4b7b44053ad0454bf52d9f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0004_000-WYG.markers.yaml, hash: 'sha256:42fe499863e86ddbc64d0cf8ec0f3480c30f14e28ff9a2401960686011c4431b'}
-  - {seq: 1, role: markers, filename: assets/KR3h0004_001-WYG.markers.yaml, hash: 'sha256:6179ef30de29639e814df8af988077c46a3387673e96489c953983a6db8d3022'}
+  - {seq: 0, role: markers, filename: assets/KR3h0004_000-WYG.markers.yaml, hash: 'sha256:7fa2e038a93055b8dbdf0facde0b57a46e669b98e80bb7ac155a0c58cc63e8d1'}
+  - {seq: 1, role: markers, filename: assets/KR3h0004_001-WYG.markers.yaml, hash: 'sha256:e0d49c1891eb36671211ae7d146e65573012fa439933d21019efd95119d017b6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 貞觀公私畫史
   type: section
   level: 1
-hash: sha256:8f883e465c9cd32c3cbe2014736ec2b81bd95ba239893908a675fe20f74363dc
+hash: sha256:95a28f81fe588653c030057adb7e200c82a5a08ed636e04421b930887486f9b6

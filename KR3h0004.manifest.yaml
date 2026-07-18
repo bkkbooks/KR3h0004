@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3h0004_000.yaml, hash: 'sha256:bbbe2ead3fdd3edbbee116a7bf6b589588edb2986ee340bfa35a5a2db0d63159'}
   - {seq: 1, filename: KR3h0004_001.yaml, hash: 'sha256:d380325321297387906d99c5baa4ee3243c1cbc80c1b8da8dd3b7f3bcde564d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0004_000.markers.yaml, hash: 'sha256:3af03aac89f936cf1f20972726defea71726c9ae4866e525ef5bb18ae2df7462'}
-  - {seq: 1, role: markers, filename: assets/KR3h0004_001.markers.yaml, hash: 'sha256:d2545a6b06f1115e44a617d4e46476d8665e22cf3f6f3c009a74e2719bd22403'}
+  - {seq: 0, role: markers, filename: assets/KR3h0004_000.markers.yaml, hash: 'sha256:80d67d84d68bbad8f68eb0cecc9a5585af0ab8e8f22e47854258c119e4bad260'}
+  - {seq: 1, role: markers, filename: assets/KR3h0004_001.markers.yaml, hash: 'sha256:9c81ddf4432c5e0398019044544d6be4c48756f278f02e28be6c23a905518075'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 貞觀公私畫史
   type: section
   level: 1
-hash: sha256:a2fb876b2f712394efe7b5bb1ff0243653b65f274249ffed8ebe8c329f879735
+hash: sha256:aa13fed5d27902ad34a797de4046883cf848f0f0a04edc18abcd71b2f679bfe5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
